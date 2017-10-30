@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "251437772488",
+    "firebase_url": "https://facebookapp-e15e3.firebaseio.com",
+    "project_id": "facebookapp-e15e3",
+    "storage_bucket": "facebookapp-e15e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251437772488:android:9cc67a2cdd8200f4",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251437772488-vvudsv1vdi6gq0366og4oi45k7b9u3hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTk2mWC10VF17AY8Y6Xzoqz6wAKLGcfJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
